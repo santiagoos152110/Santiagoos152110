@@ -31,7 +31,7 @@ I'm always eager to learn and improve my skills. This is my portfolio where I'll
 
 <br>
 
-## 🎓 My Education & Certifications  
+## 🎓 My Education
 
 - **[Institution Name]** – [Year]  
 - **[Certification Name]** – [Platform or Institution]  
