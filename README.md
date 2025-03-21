@@ -15,7 +15,7 @@
 <br>
 
 ## 🚀 About Me
-I have a great passion for [mention your professional interests] and a strong curiosity for [specific fields like web development, graphic design, medicine, etc.].  
+I have a great passion for communications and corporate relations and a strong curiosity for [specific fields like web development, graphic design, medicine, etc.].  
 I'm always eager to learn and improve my skills. This is my portfolio where I'll share my projects and progress.  
 
 > [!IMPORTANT]
@@ -33,7 +33,7 @@ I'm always eager to learn and improve my skills. This is my portfolio where I'll
 
 ## 🎓 My Education
 
-- **[Institution Name]** – [Year]  
+- **[Reggio Emilia School ]** – [Year]  
 - **[Certification Name]** – [Platform or Institution]  
 - **[Certification Name]** – [Platform or Institution]
 
